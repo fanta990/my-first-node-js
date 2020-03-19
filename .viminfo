@@ -1,0 +1,135 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1584332874,,"wq"
+:eq
+|2,0,1584299670,,"eq"
+:q
+|2,0,1584179507,,"q"
+:w
+|2,0,1584179489,,"w"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""-	CHAR	0
+	た
+|3,1,36,0,1,0,1584298831,"た"
+
+# ファイルマーク:
+'0  24  55  /tmp/crontab.vBAzhT/crontab
+|4,48,24,55,1584332874,"/tmp/crontab.vBAzhT/crontab"
+'1  23  56  /tmp/crontab.AYRelm/crontab
+|4,49,23,56,1584330975,"/tmp/crontab.AYRelm/crontab"
+'2  156  23  /tmp/tutoreSmI4K
+|4,50,156,23,1584299697,"/tmp/tutoreSmI4K"
+'3  1  0  ~/workspace/vim-study/test.txt
+|4,51,1,0,1584179507,"~/workspace/vim-study/test.txt"
+'4  1  0  ~/.profile
+|4,52,1,0,1584179409,"~/.profile"
+
+# ジャンプリスト (新しいものが先):
+-'  24  55  /tmp/crontab.vBAzhT/crontab
+|4,39,24,55,1584332874,"/tmp/crontab.vBAzhT/crontab"
+-'  1  0  /tmp/crontab.vBAzhT/crontab
+|4,39,1,0,1584332790,"/tmp/crontab.vBAzhT/crontab"
+-'  23  56  /tmp/crontab.AYRelm/crontab
+|4,39,23,56,1584330975,"/tmp/crontab.AYRelm/crontab"
+-'  23  56  /tmp/crontab.AYRelm/crontab
+|4,39,23,56,1584330975,"/tmp/crontab.AYRelm/crontab"
+-'  1  0  /tmp/crontab.AYRelm/crontab
+|4,39,1,0,1584330683,"/tmp/crontab.AYRelm/crontab"
+-'  1  0  /tmp/crontab.AYRelm/crontab
+|4,39,1,0,1584330683,"/tmp/crontab.AYRelm/crontab"
+-'  156  23  /tmp/tutoreSmI4K
+|4,39,156,23,1584299697,"/tmp/tutoreSmI4K"
+-'  156  23  /tmp/tutoreSmI4K
+|4,39,156,23,1584299697,"/tmp/tutoreSmI4K"
+-'  156  23  /tmp/tutoreSmI4K
+|4,39,156,23,1584299697,"/tmp/tutoreSmI4K"
+-'  156  23  /tmp/tutoreSmI4K
+|4,39,156,23,1584299697,"/tmp/tutoreSmI4K"
+-'  1  0  /tmp/tutoreSmI4K
+|4,39,1,0,1584179639,"/tmp/tutoreSmI4K"
+-'  1  0  /tmp/tutoreSmI4K
+|4,39,1,0,1584179639,"/tmp/tutoreSmI4K"
+-'  1  0  /tmp/tutoreSmI4K
+|4,39,1,0,1584179639,"/tmp/tutoreSmI4K"
+-'  1  0  /tmp/tutoreSmI4K
+|4,39,1,0,1584179639,"/tmp/tutoreSmI4K"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1584179507,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1584179507,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1584179507,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1584179507,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/.profile
+|4,39,1,0,1584179409,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584179409,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584179409,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584179409,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584179409,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584179409,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584179409,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1584179409,"~/.profile"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> /tmp/crontab.vBAzhT/crontab
+	*	1584332871	0
+	"	24	55
+	^	24	56
+	.	24	55
+	+	24	55
+
+> /tmp/crontab.AYRelm/crontab
+	*	1584330964	0
+	"	23	56
+	^	23	57
+	.	23	1
+	+	22	28
+	+	23	1
+
+> /tmp/tutoreSmI4K
+	*	1584299696	0
+	"	156	23
+	^	133	59
+	.	133	56
+	+	83	59
+	+	108	58
+	+	131	56
+	+	133	56
+
+> ~/workspace/vim-study/test.txt
+	*	1584179505	0
+	"	1	0
+
+> ~/.profile
+	*	1584179396	0
+	"	1	0
